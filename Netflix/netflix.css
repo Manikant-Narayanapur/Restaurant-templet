@@ -1,0 +1,121 @@
+
+.logo img{
+
+    width: 150px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 20px;
+}
+#button1{
+    background-color: black;
+    color: beige;
+    border: 2px solid  white;
+    padding: 5px;
+    margin-right: 20px;
+}
+#button2{
+    background-color: red;
+    color: bisque;
+    border-radius: 3px;
+    border: 2px solid white;
+    border: none;
+    padding: 5px;
+}
+.sec1{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.712),rgba(0, 0, 0, 0.712)), url(net.png);
+    width: 100%;
+    height: 700px;
+
+}
+.content{
+    color: white;
+    text-align: center;
+    margin-top: 100px;    
+}
+.content h1{
+    font-size: 50px;
+}
+button{
+    background-color: red;
+    border: none;
+    padding: 10px;
+}
+.email_form{
+    justify-content: center;
+    display: flex;
+}
+.email_form input{
+    height: 30px;
+    width: 300px;   
+}
+body{
+    background-color: rgba(0, 0, 0, 0.589);
+}
+.sec2{
+     background-color: black; 
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+.tv{
+    color: white;
+    margin-top: 100px;
+    margin-left: 50px;
+
+}
+.sec2 h1{
+    font-size: 50px;
+}
+.sec3{
+    background-color: black; 
+   display: flex;
+   justify-content: space-between;
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+.phone{
+   color: white;
+   margin-top: 50px;
+   margin-right: 150px;
+
+}
+.sec3 h1{
+    font-size: 50px;
+}
+.sec4{
+    background-color: black; 
+   display: flex;
+   justify-content: space-between;
+   padding-bottom: 50px;
+   padding-top: 50px;
+}
+.laptop{
+   color: white;
+   margin-top: 50px;
+   margin-left: 100px;
+
+}
+.sec4 h1{
+   font-size: 50px;
+}
+.sec5{
+    background-color: black; 
+   display: flex;
+   justify-content: space-between;
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+.child{
+   color: white;
+   margin-top: 50px;
+   margin-right: 150px;
+
+}
+.sec5 h1{
+    font-size: 50px;
+}
+
+
